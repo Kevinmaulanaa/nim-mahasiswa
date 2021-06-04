@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class NIMRun {
     public static void main(String[] args) {
         Scanner min = new Scanner(System.in);
