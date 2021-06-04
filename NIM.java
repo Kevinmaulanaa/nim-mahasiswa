@@ -73,6 +73,7 @@ public class NIM {
         }
         return "UNKNOWN";
     }
+    
 
     public String getNomorurut(){
         char kodeNomor1 = nim.charAt(7);
